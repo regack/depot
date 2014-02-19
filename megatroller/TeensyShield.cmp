@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-02-13 BZR 3947)-testing date = 11/23/2013 4:45:17 PM
+
+BeginCmp
+TimeStamp = /52633ECD;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E71;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E67;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633EAF;
+Reference = C4;
+ValeurCmp = 22p;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E5D;
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E53;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E0B;
+Reference = C7;
+ValeurCmp = 1u;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633EA5;
+Reference = C8;
+ValeurCmp = 22p;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /528BDA80;
+Reference = CN1;
+ValeurCmp = AXK550147YG;
+IdModule  = Panasonic_AXK550147YG_Socket;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633EB9;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E25;
+Reference = R1;
+ValeurCmp = 22Ω;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633E1B;
+Reference = R2;
+ValeurCmp = 22Ω;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633DE5;
+Reference = R3;
+ValeurCmp = 10kΩ;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633DF5;
+Reference = R4;
+ValeurCmp = 10kΩ;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /528BA9C1;
+Reference = R5;
+ValeurCmp = 2.2kΩ;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /528BA9CB;
+Reference = R6;
+ValeurCmp = 2.2kΩ;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /528BA9B2;
+Reference = U1;
+ValeurCmp = MCP23018;
+IdModule  = SSOP24;
+EndCmp
+
+BeginCmp
+TimeStamp = /52633DCF;
+Reference = X1;
+ValeurCmp = 7M-16.000MAAJ-T;
+IdModule  = ASX3F;
+EndCmp
+
+EndListe

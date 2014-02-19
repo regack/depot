@@ -1,0 +1,12 @@
+ref             value           Item count      Mfr #                   footprint       datasheet
+==========================================================================================================
+C1, C7          1uF             1               VJ0805Y105JXQTW1BC      0805            https://www.mouser.com/Search/ProductDetail.aspx?R=VJ0805Y105JXQTW1BCvirtualkey61340000virtualkey77-VJ0805Y105JXQTBC
+C2,C3, C5, C6   0.1uF           2               VJ0805Y104JXXAC 0805                    https://www.mouser.com/Search/ProductDetail.aspx?R=VJ0805Y104JXXACvirtualkey61340000virtualkey77-VJ0805Y104JXXAC 
+C4, C8          22pF            2               VJ0805A220GXXCW1BC      0805            https://www.mouser.com/Search/ProductDetail.aspx?R=VJ0805A220GXXCW1BCvirtualkey61340000virtualkey77-VJ0805A220GXXCBC 
+CN1             AXK550147YG     1               AXK550147YG                             https://www.mouser.com/Search/ProductDetail.aspx?R=AXK550147YGvirtualkey66710000virtualkey769-AXK550147YG
+IC1             ATMEGA32U4      1               ATMEGA32U4-AU-ND        TQFP44          https://www.mouser.com/Search/ProductDetail.aspx?R=ATMEGA32U4-AUvirtualkey55650000virtualkey556-ATMEGA32U4-AU
+R1,R2           22O             2               CRCW080522R0JNTABC      0805            http://www.tme.eu/pl/Document/e5152f6c2c4f933b61676f6de7ae79a8/dcrcw.pdf
+R3,R4           10kO            2               CRCW080510K0JNTABC      0805            http://www.tme.eu/pl/Document/e5152f6c2c4f933b61676f6de7ae79a8/dcrcw.pdf
+R5,R6           2.2kO           2               CRCW080522R0JNTABC      0805            http://www.tme.eu/pl/Document/e5152f6c2c4f933b61676f6de7ae79a8/dcrcw.pdf
+U1              MCP23018        1               MCP23018-E/SS           SSOP24          https://www.mouser.com/Search/ProductDetail.aspx?R=MCP23018-E%2fSSvirtualkey57940000virtualkey579-MCP23018-E%2fSS
+X1              7M-16.000MAAJ-T 1               7M-16.000MAAJ-T                         https://www.mouser.com/Search/ProductDetail.aspx?R=7M-16.000MAAJ-Tvirtualkey57230000virtualkey717-7M-16.000MAAJ-T
